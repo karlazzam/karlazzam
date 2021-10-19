@@ -4,7 +4,7 @@
 
 I am a backend developer who uses Github for personal work. 
  
- 🔭 I’m working on Project called **Levels**. We are hoping to release the MVP by Summer of 2021 and I'll update my progress here.
+ 🔭 I’m working on Project called **Levels**. We are hoping to release the MVP by Summer of 2022 and I'll update my progress here.
  
  🌱 I’m currently learning how to balance a full time job, personal projects, and personal time
   
